@@ -13,6 +13,8 @@ This topology is a simple simulation of how the real-world internet works
 2. Dynamic Host Configuration Protocol (DHCP)
 3. Domain Name Server(DNS)
 
+![Screenshot of topology](https://user-images.githubusercontent.com/84195790/147956128-9ea584a8-71bb-4866-a795-98ee144cd28d.png)
+
 ## Legend
 * Orange Area: Edge Wireless-Routers and PCs
 * Yellow Area: Routers in the Internet (ISP)
