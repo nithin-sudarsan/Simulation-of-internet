@@ -1,5 +1,5 @@
 # Simulation-of-internet
-This topology is a simple simulation of how the real-world internet works
+This topology is a **Simple** simulation of how the real-world internet works
 
 ## Networking Devices Used
 1. Switches
